@@ -23,7 +23,7 @@ A default configration for an Azure Machine Learning service workspace may not b
 * __Assign users to Team Lead and Data Scientist roles.__ 
 
 > [!TIP]
-> The scripts for this article can be downloaded from [some github repo]().
+> The scripts for this article can be downloaded from [the GitHub repo](https://github.com/BlueGranite/amls_admin).
 
 ## Prerequisites
 
